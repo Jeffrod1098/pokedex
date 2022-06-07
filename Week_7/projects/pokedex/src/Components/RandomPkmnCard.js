@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const RandomPkmnCard = ({pokeData}) => {
     console.log(pokeData.sprites.front_default)
 
-    
+    // testing commit
     return(
         <div>
             <div className="randomCard">
